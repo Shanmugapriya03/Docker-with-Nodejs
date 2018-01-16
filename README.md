@@ -9,10 +9,10 @@ Command `sudo node index.js`
 
 ## Open Browser `http://localhost:7000`
 
-##Basic
+## Basic
 
-List the docker images `http://localhost:7000/images`
+## List the docker images `http://localhost:7000/images`
 
-List all  the containers `http://localhost:7000/list-all-containers`
+## List all  the containers `http://localhost:7000/list-all-containers`
 
-List running containers `http://localhost:7000/list-running-containers`
+## List running containers `http://localhost:7000/list-running-containers`
